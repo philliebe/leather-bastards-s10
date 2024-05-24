@@ -22,3 +22,17 @@ NULL,sound_reset_factory_config,Настройки системы сброшен
 20,sound_pause_sweep_mopping_clean,Чистка пылесосом и влажная уборка приостановлены
 21,sound_sweep_clean_finish_to_charging,Уборка завершена. Возвращаюсь на док-станцию для зарядки
 22,sound_sweep_mopping_clean_finish_to_charging,Чистка пылесосом и влажная уборка завершены. Возвращаюсь на док-станцию для зарядки
+23,sound_battery_low_to_charging,Недостаточный уровень заряда батареи. Возвращаюсь на док-станцию для зарядки
+24,sound_go_charge,Возвращаюсь на док-станцию для зарядки
+25,sound_stop_charge,Остановить возвращение на док-станцию для зарядки
+26,sound_charging_start,Начало зарядки
+27,sound_broken_charging_completed_to_sweep,Зарядка завершена. Уборка возобновляется
+28,sound_broken_charging_completed_to_sweep_mopping,Зарядка завершена. Чистка пылесосом и влажная уборка возобновляется
+29,sound_power_off,Выключение
+30,sound_power_on,Включение
+31,sound_dust_box_take_out,Контейнер для пыли извлечён
+32,sound_dia_box_take_out,"Не заполняйте водный резервуар, так как он извлечён"
+33,sound_dust_box_installed,"Контейнер для пыли установлен. Убедитесь, что он установлен на место"
+34,sound_water_box_installed,"Резервуар для воды установлен. Проверьте, правильно ли"
+35,sound_dia_box_take_out,"Контейнер для пыли с водным резервуаром, два в одном, извлечён. Не замачивайте его в воде"
+36,sound_dia_box_installed,"Контейнер для пыли с водным резервуаром, два в одном, установлен. ..."
