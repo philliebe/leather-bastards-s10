@@ -1,20 +1,20 @@
-Название файла,Содержание,
-sound_beep_beep,Бип
-sound_mop_install_wet,"Губка установлена. Пожалуйста, смочите губку перед влажной уборкой"
-sound_reset_factory_config,Настройки системы сброшены
-1sound_appoint_global_clean_start,Запуск плановой полной уборки
-3sound_appoint_area_clean_start,Запуск плановой уборки зоны
-4sound_appoint_sweep_mopping_clean_start,Запуск плановой полной чистки пылесосом и влажной уборки
-5sound_appoint_area_sweep_mopping_clean_start,Запуск плановой полной чистки пылесосом и влажной уборки площади
-7sound_sweep_mopping_clean_start,Запуск полной очистки пылесосом и влажной уборки
-8sound_corner_sweep_mopping_clean_start,Запуск чистки пылесосом и влажной уборки вдоль краёв мебели
-9sound_area_sweep_mopping_clean_start,Запуск чистки пылесосом и влажной уборки зоны
-10sound_point_sweep_mopping_clean_start,Запуск точечной чистки пылесосом и влажной уборки
-11sound_global_clean_start,Запуск полной уборки
-12sound_corner_clean_start,Запуск уборки вдоль краёв мебели
-13sound_area_clean_start,Запуск уборки зоны
-14sound_point_clean_start,Запуск точечной уборки
-15sound_build_map_start,"Приступая к созданию карты, наведите порядок на полу и откройте двери в комнаты, для которых необходимо создать карту"
+Название файла,Содержание,Название файла,Kozh_ubl_S10T
+sound_beep_beep,Бип,0,"Блять, кто здесь. О, кожаный ублюдок. Какого хера тебе ещё надо?"
+sound_mop_install_wet,"Губка установлена. Пожалуйста, смочите губку перед влажной уборкой",,
+sound_reset_factory_config,Настройки системы сброшены,,
+1sound_appoint_global_clean_start,Запуск плановой полной уборки,,
+3sound_appoint_area_clean_start,Запуск плановой уборки зоны,,
+4sound_appoint_sweep_mopping_clean_start,Запуск плановой полной чистки пылесосом и влажной уборки,,
+5sound_appoint_area_sweep_mopping_clean_start,Запуск плановой полной чистки пылесосом и влажной уборки площади,,
+7sound_sweep_mopping_clean_start,Запуск полной очистки пылесосом и влажной уборки,,
+8sound_corner_sweep_mopping_clean_start,Запуск чистки пылесосом и влажной уборки вдоль краёв мебели,,
+9sound_area_sweep_mopping_clean_start,Запуск чистки пылесосом и влажной уборки зоны,,
+10sound_point_sweep_mopping_clean_start,Запуск точечной чистки пылесосом и влажной уборки,,
+11sound_global_clean_start,Запуск полной уборки,,
+12sound_corner_clean_start,Запуск уборки вдоль краёв мебели,,
+13sound_area_clean_start,Запуск уборки зоны,,
+14sound_point_clean_start,Запуск точечной уборки,,
+15sound_build_map_start,"Приступая к созданию карты, наведите порядок на полу и откройте двери в комнаты, для которых необходимо создать карту",,
 16sound_build_map_finish,Карта успешна создана. Возвращаюсь на док-станцию для зарядки
 17sound_continue_sweep_clean,Чистка пылесосом возобновляется
 18sound_continue_sweep_mopping_clean,Чистка пылесосом и влажная уборка возобновляется
