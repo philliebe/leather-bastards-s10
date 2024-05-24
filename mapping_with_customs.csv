@@ -1,0 +1,96 @@
+Название файла,Содержание,
+sound_beep_beep,Бип
+sound_mop_install_wet,"Губка установлена. Пожалуйста, смочите губку перед влажной уборкой"
+sound_reset_factory_config,Настройки системы сброшены
+1sound_appoint_global_clean_start,Запуск плановой полной уборки
+3sound_appoint_area_clean_start,Запуск плановой уборки зоны
+4sound_appoint_sweep_mopping_clean_start,Запуск плановой полной чистки пылесосом и влажной уборки
+5sound_appoint_area_sweep_mopping_clean_start,Запуск плановой полной чистки пылесосом и влажной уборки площади
+7sound_sweep_mopping_clean_start,Запуск полной очистки пылесосом и влажной уборки
+8sound_corner_sweep_mopping_clean_start,Запуск чистки пылесосом и влажной уборки вдоль краёв мебели
+9sound_area_sweep_mopping_clean_start,Запуск чистки пылесосом и влажной уборки зоны
+10sound_point_sweep_mopping_clean_start,Запуск точечной чистки пылесосом и влажной уборки
+11sound_global_clean_start,Запуск полной уборки
+12sound_corner_clean_start,Запуск уборки вдоль краёв мебели
+13sound_area_clean_start,Запуск уборки зоны
+14sound_point_clean_start,Запуск точечной уборки
+15sound_build_map_start,"Приступая к созданию карты, наведите порядок на полу и откройте двери в комнаты, для которых необходимо создать карту"
+16sound_build_map_finish,Карта успешна создана. Возвращаюсь на док-станцию для зарядки
+17sound_continue_sweep_clean,Чистка пылесосом возобновляется
+18sound_continue_sweep_mopping_clean,Чистка пылесосом и влажная уборка возобновляется
+19sound_pause_sweep_clean,Чистка пылесосом и влажная уборка приостановлены
+20sound_pause_sweep_mopping_clean,Чистка пылесосом и влажная уборка приостановлены
+21sound_sweep_clean_finish_to_charging,Уборка завершена. Возвращаюсь на док-станцию для зарядки
+22sound_sweep_mopping_clean_finish_to_charging,Чистка пылесосом и влажная уборка завершены. Возвращаюсь на док-станцию для зарядки
+23sound_battery_low_to_charging,Недостаточный уровень заряда батареи. Возвращаюсь на док-станцию для зарядки
+24sound_go_charge,Возвращаюсь на док-станцию для зарядки
+25sound_stop_charge,Остановить возвращение на док-станцию для зарядки
+26sound_charging_start,Начало зарядки
+27sound_broken_charging_completed_to_sweep,Зарядка завершена. Уборка возобновляется
+28sound_broken_charging_completed_to_sweep_mopping,Зарядка завершена. Чистка пылесосом и влажная уборка возобновляется
+29sound_power_off,Выключение
+30sound_power_on,Включение
+31sound_dust_box_take_out,Контейнер для пыли извлечён
+32sound_dia_box_take_out,"Не заполняйте водный резервуар, так как он извлечён"
+33sound_dust_box_installed,"Контейнер для пыли установлен. Убедитесь, что он установлен на место"
+34sound_water_box_installed,"Резервуар для воды установлен. Проверьте, правильно ли"
+35sound_dia_box_take_out,"Контейнер для пыли с водным резервуаром, два в одном, извлечён. Не замачивайте его в воде"
+36sound_dia_box_installed,"Контейнер для пыли с водным резервуаром, два в одном, установлен. Убедитесь, что контейнер установлен правильно"
+40sound_reset_network_config,Сброс параметров подключения к сети Wi-Fi и переход в режим настройки сети
+41sound_connecting_network,Подключение к сети. Подождите
+42sound_connected,Подключение установлено
+43sound_I_am_here,Я здесь. Я здесь. Я здесь
+46sound_exception_robot_tilted_succ,"По завершении калибровки уровня устройства, нажмите и удерживайте кнопку питания, чтобы выполнить перезагрузку"
+47sound_mop_pad_installed,"Убедитесь, что губка установлена"
+48sound_two_in_one_installed,"Убедитесь, что контейнер для пыли с водным резервуаром, два в одном, установлен"
+49sound_two_in_one_mop_pad_installed,"Убедитесь, что контейнер для пыли с водным резервуаром, два в одном и губка, установлены"
+51sound_exception_low_power,Уровень заряда батареи слишком низкий. Зарядите его
+52sound_exception_robot_tilted,"Для запуска, переместите робот-пылесос на ровную поверхность"
+54sound_exception_charging_to_power_off,"Если необходимо выключить робот-пылесос, уберите его с док-станции и повторите попытку"
+55sound_exception_waiting_to_charge,"Недостаточный уровень заряда батареи. Подождите, пока устройство зарядится полностью"
+59sound_exception_radar_shading,Посмотрите на датчик препятствий и переместите робот-пылесос с функцией влажной уборки на новое место для запуска
+62sound_exception_cliff,Протрите датчик падения и переместите робот-пылесос на новое место для запуска
+63sound_exception_bumper,Удалите любые посторонние предметы в зоне датчика столкновений
+64sound_exception_trapped,Уберите любые препятствия вокруг робота-пылесоса и повторите попытку
+66sound_charging_to_clean_dust_box,Начало зарядки. Своевременно очищайте контейнер для пыли
+67sound_clean_two_in_one_dust_compartment,"Начало зарядки. Своевременно очистите контейнер для пыли с водным резервуаром, два в одном"
+111sound_charging_to_water_box,Начало зарядки. Своевременно очищайте контейнер для пыли и водный резервуар
+181sound_starting_charge_clean_water_tank,Начало зарядки. Очищайте водный резервуар вовремя
+69sound_exception_go_charge_failure,Верните робот-пылесос на док-станцию для зарядки
+70sound_exception_standby_over,Превышено время работы в режиме ожидания. Устройство выключается
+71sound_exception_low_power_off,Низкий уровень заряда аккумулятора. Устройство выключается
+72sound_build_map_pause,Создание карты приостановлено
+73sound_build_map_continue,Создание карты возобновлено
+74sound_build_map_ongoing,Создание карты
+81sound_appoint_mopping_clean_start,"Запуск плановой, полной, влажной уборки"
+83sound_appoint_area_mopping_start,"Запуск плановой, влажной уборки зоны"
+84sound_mopping_clean_start,Запуск полной и влажной уборки
+85sound_corner_mopping_clean_start,Запуск влажной уборки вдоль краёв мебели
+86sound_area_mopping_clean_start,Запуск влажной уборки зоны
+87sound_point_mopping_clean_start,Запуск точечной влажной уборки
+88sound_continue_mopping_clean,Влажная уборка возобновляется
+89sound_pause_mopping_clean,Влажная уборка приостановлена
+90sound_mopping_clean_finish_to_charging,Влажная уборка завершена. Возвращаюсь на док-станцию для зарядки
+91sound_broken_charging_completed_to_mopping,Зарядка завершена. Влажная уборка возобновляется
+92sound_upgrade_broken_low_power,"Перед обновлением установите робот-пылесос на док-станцию и убедитесь, что уровень заряда батареи превышает 30 процентов"
+101sound_upgrade_begin,Обновление. Это займёт около 5-10 минут
+56sound_exception_upgrading,Выполняется установка обновления системы. Повторите попытку позже
+93sound_upgrade_success,Обновление завершено
+100sound_upgrade_exit,Выход из режима обновления
+94sound_new_environment,Обнаружено новое помещение. Уборка вновь запущена
+95sound_appoint_prefer_cleaning,"Запуск плановой, настраиваемой уборки"
+96sound_prefer_cleaning,Запуск настраиваемой уборки
+102sound_network_connect_exit,Выход из режима настройки сети
+103sound_broken_charging_completed_to_building,Зарядка завершена. Создание карты возобновлено
+110sound_install_diad_box,"Убедитесь, что водный резервуар установлен"
+114sound_wait_for_position_ing,Определение местоположения. Ожидайте
+115sound_position_success,Местоположение успешно определено
+121sound_water_tank_and_mop_pad_installed,"Убедитесь, что водный резервуар и губка установлены"
+127sound_start_in_virtual_area,Обнаружена виртуальная стена или запрещённая зона. Переместите робот-пылесос подальше от неё
+129sound_clean_uncompleted,Невозможно попасть в целевую зону. Уборка не завершена
+130sound_clean_uncompleted,Невозможно попасть в некоторые зоны. Уборка не завершена
+144sound_scheduled_cleanup_unable_start,Низкий уровень заряда батареи. Невозможно начать запланированную уборку
+154sound_could_not_position,Не удалось определить местоположение. Переместите робот-пылесос на зарядную док-станцию и создайте карту заново
+154suond_Could_not_position,Не удалось определить местоположение. Переместите робот-пылесос с функцией влажной уборки на зарядную док-станцию и создайте карту заново
+155sound_map_changed,Карта изменилась. Не удалось определить местоположение. Создайте карту ещё раз
+180sound_two_in_one_dust_compartment_installed,"Убедитесь, что контейнер для пыли, либо контейнер для пыли с водным резервуаром, два в одном, установлен"
