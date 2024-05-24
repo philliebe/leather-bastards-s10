@@ -1,6 +1,6 @@
 Номер,EN,RU
 NULL,sound_beep_beep,Бип
-NULL,sound_mop_install_wet,"Губка установлена. Пожалуйста"," смочите губку перед влажной уборкой"
+NULL,sound_mop_install_wet,"Губка установлена. Пожалуйста"","" смочите губку перед влажной уборкой"
 NULL,sound_reset_factory_config,Настройки системы сброшены
 1,sound_appoint_global_clean_start,Запуск плановой полной уборки
 3,sound_appoint_area_clean_start,Запуск плановой уборки зоны
