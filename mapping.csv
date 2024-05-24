@@ -8,3 +8,17 @@ NULL,sound_reset_factory_config,Настройки системы сброшен
 5,sound_appoint_area_sweep_mopping_clean_start,Запуск плановой полной чистки пылесосом и влажной уборки площади
 7,sound_sweep_mopping_clean_start,Запуск полной очистки пылесосом и влажной уборки
 8,sound_corner_sweep_mopping_clean_start,Запуск чистки пылесосом и влажной уборки вдоль краёв мебели
+9,sound_area_sweep_mopping_clean_start,Запуск чистки пылесосом и влажной уборки зоны
+10,sound_point_sweep_mopping_clean_start,Запуск точечной чистки пылесосом и влажной уборки
+11,sound_global_clean_start,Запуск полной уборки
+12,sound_corner_clean_start,Запуск уборки вдоль краёв мебели
+13,sound_area_clean_start,Запуск уборки зоны
+14,sound_point_clean_start,Запуск точечной уборки
+15,sound_build_map_start,"Приступая к созданию карты, наведите порядок на полу и откройте двери в комнаты, для которых необходимо создать карту"
+16,sound_build_map_finish,Карта успешна создана. Возвращаюсь на док-станцию для зарядки
+17,sound_continue_sweep_clean,Чистка пылесосом возобновляется
+18,sound_continue_sweep_mopping_clean,Чистка пылесосом и влажная уборка возобновляется
+19,sound_pause_sweep_clean,Чистка пылесосом и влажная уборка приостановлены
+20,sound_pause_sweep_mopping_clean,Чистка пылесосом и влажная уборка приостановлены
+21,sound_sweep_clean_finish_to_charging,Уборка завершена. Возвращаюсь на док-станцию для зарядки
+22,sound_sweep_mopping_clean_finish_to_charging,Чистка пылесосом и влажная уборка завершены. Возвращаюсь на док-станцию для зарядки
