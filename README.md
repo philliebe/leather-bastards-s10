@@ -6,3 +6,6 @@ https://cdn.awsde0.fds.api.mi-img.com/ijai-2s-map.record/multilanguage/xiaomi3/2
 
 
 19 и 20 одинаковые
+
+Есть ещё ru_RU.zip
+В нём, например, есть файл _157sound_could_not_update_ про невозможность обновить
