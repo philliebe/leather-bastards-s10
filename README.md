@@ -5,4 +5,4 @@ https://cdn.awsde0.fds.api.mi-img.com/ijai-2s-map.record/multilanguage/xiaomi3/2
 5,91 Mb
 
 
-20 и 21 одинаковые
+19 и 20 одинаковые
