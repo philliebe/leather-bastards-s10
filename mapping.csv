@@ -41,4 +41,4 @@ NULL,sound_reset_factory_config,Настройки системы сброшен
 42,sound_connected,Подключение установлено
 43,sound_I_am_here,Я здесь. Я здесь. Я здесь
 46,sound_exception_robot_tilted_succ,"По завершении калибровки уровня устройства, нажмите и удерживайте кнопку питания, чтобы выполнить перезагрузку"
-47sound_mop_pad_installed
+47,sound_mop_pad_installed,
