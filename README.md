@@ -14,3 +14,6 @@ https://cdn.awsde0.fds.api.mi-img.com/ijai-2s-map.record/multilanguage/xiaomi3/2
 https://zvukipro.com/mult/
 
 https://zvukogram.com/speech/
+
+
+https://4pda.to/forum/index.php?showtopic=1055907&st=1120
