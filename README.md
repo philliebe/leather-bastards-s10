@@ -17,3 +17,6 @@ https://zvukogram.com/speech/
 
 
 https://4pda.to/forum/index.php?showtopic=1055907&st=1120
+
+
+https://4pda.to/forum/index.php?showtopic=881982
